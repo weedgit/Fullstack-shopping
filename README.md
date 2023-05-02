@@ -36,7 +36,6 @@ You can get and view the list of all products from the API, register, add produc
 
 ### Requirements:
 
-
 * Docker
 
 In case you want to run it without Docker (requires additional setup):
